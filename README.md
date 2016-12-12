@@ -1,3 +1,2 @@
-# hello-world
-
-Another dumb hello world tutorial (waving flag sarcasticly)
+# My Playground
+This is where I'll make widgets and test website layouts.
